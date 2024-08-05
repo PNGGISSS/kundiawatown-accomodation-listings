@@ -1,0 +1,1 @@
+var json_Lodge_2 = {"type":"FeatureCollection","name":"Lodge_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Lodge":"Waghi Bridge Hideaway","Price":"K150","Contact":"7034978","Email":"wbh@outlook.com"},"geometry":{"type":"Point","coordinates":[144.951574119058421,-6.033901544597501]}}]}

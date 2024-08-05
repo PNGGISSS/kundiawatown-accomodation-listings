@@ -1,0 +1,1 @@
+var json_GuestHouse_3 = {"type":"FeatureCollection","name":"GuestHouse_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"G.House":"Dagmabongi","Price":"K100","Phone":"7046346","Email":"dagmabongi@gmail.com"},"geometry":{"type":"Point","coordinates":[144.997425912283717,-5.996870247409447]}}]}
